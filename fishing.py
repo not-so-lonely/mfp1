@@ -8,7 +8,7 @@ FPS = 120
 okno = display.set_mode((600, 1000))
 
 
-
+fon
 fon1 = image.load("bg.jpg") 
 fon2 = image.load("bg.jpg") 
 fon3 = image.load("bg.jpg")
