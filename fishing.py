@@ -50,7 +50,7 @@ udpchka = igrok('sd.png', 60, 80)
 f1 = pygame.font.Font(None, 36)
 text1 = f1.render('press SPACE to start', True, (0,0,0))
 
-
+game = True
 yf1 = 0
 yf2 = -1000
 yf3 = 1000
