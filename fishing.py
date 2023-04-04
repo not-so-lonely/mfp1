@@ -58,7 +58,7 @@ while game:
     okno.blit(fon1,(xf1,0))
     okno.blit(fon2,(xf2,0))
     okno.blit(fon3,(xf3,0))
-        for i in event.get():
+       for i in event.get():
         if i.type == QUIT: 
             game = False
         if i.type == KEYDOWN:
